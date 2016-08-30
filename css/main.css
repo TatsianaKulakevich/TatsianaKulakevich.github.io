@@ -1,12 +1,13 @@
 
   
-  body {background: repeating-linear-gradient(
-  -55deg,
-  grey,
-  grey 10px,
-  lightgrey 10px,
-  lightgrey 20px
-);
+  body {color: white;
+  background: linear-gradient(
+    45deg,
+    #5d9634,
+    #5d9634 50%,
+    #538c2b 50%,
+    #538c2b
+  );
     margin: 60px auto;
     width: 70%;
 }
