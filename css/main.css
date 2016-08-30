@@ -3,7 +3,6 @@
   body {
     margin: 60px auto;
     width: 70%;
-    
 }
   
 nav ul, footer ul {
@@ -16,8 +15,6 @@ nav ul, footer ul {
 ul {position: fixed;
     top: 0;
     width: 100%;
-    border: 1px solid #e7e7e7;
-    background-color: #f3f3f3;
 }
 .active {
     background-color: #4CAF50;
