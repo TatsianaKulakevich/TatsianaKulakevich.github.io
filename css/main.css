@@ -1,7 +1,10 @@
-body
-{ font: normal .80em 'trebuchet ms', arial, sans-serif;
-  background: #F0EFE2 url(background.png) repeat;
-  color: #777;}
+
+  
+  body {
+    margin: 60px auto;
+    width: 70%;
+    color: #777;
+}
   
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
