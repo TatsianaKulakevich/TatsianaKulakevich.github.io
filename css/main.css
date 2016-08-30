@@ -47,7 +47,10 @@ ul.posts li {
 }
 
 
-
+.active {
+    background-color: #ffe789;
+    color: white;
+}
 
 
 
