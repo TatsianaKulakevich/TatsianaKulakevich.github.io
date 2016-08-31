@@ -51,6 +51,10 @@ li a:hover {
     background-color: #4CAF50;
 }
   
+ 
+  .center-me {
+  margin: 0 auto;
+}
 
 h1 {
     font-size: 3em;
