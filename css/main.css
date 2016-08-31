@@ -2,22 +2,15 @@
   *{
 margin:0; padding:0;
 }
-#shapka{
-background-color:#8A25C0;
-min-width:980px; max-width:1200px;
-margin:0 auto 0 auto;
-border-radius: 20px 20px 0 0;
-border:2px solid #062A2A;
-width:800px;}
-body{background:url(images/f2.jpg) repeat;}
-.logotip{margin:-7px 0 2px 5px;}
-.image1{margin:0 auto -5px auto;}
-#contact{
-float:right;
-margin: 0 5px 10px 0;
-padding: 5px 40px 5px 5px;}
-#contact p{font-size:16px; font-family: Tahoma; margin: 4px 5px 5px 5px; color: #FFFFFF;}
-
+#header
+{
+position:absolute;
+top:0px;
+left:0px;
+background-color:blue;
+width:1003px;
+height:200px;
+}
 
   body {color: black;
   background: linear-gradient(
