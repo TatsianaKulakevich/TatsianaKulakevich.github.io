@@ -2,15 +2,11 @@
   *{
 margin:0; padding:0;
 }
+
 #header
-{
-position:absolute;
-top:0px;
-left:0px;
-background-color:blue;
-width:1003px;
-height:200px;
-}
+{ background: #1D1D1D ;
+  height: 240px;}
+
 
   body {color: black;
   background: linear-gradient(
