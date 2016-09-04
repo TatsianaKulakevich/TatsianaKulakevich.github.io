@@ -73,6 +73,14 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
+h3 {
+    font-size: 1.9em;
+    font-family:'Times New Roman, 'Times', 'serif';;
+   font-style: italic;
+}
+
+
+
 p {
     font-size: 1.2em;
     line-height: 1.3em;
