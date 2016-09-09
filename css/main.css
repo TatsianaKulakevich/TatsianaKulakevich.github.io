@@ -75,13 +75,7 @@ h2 {
 }
 
 h3 {
-    font-size: 1.9em;
-    font-family:'Times New Roman, 'Times', 'serif';;
-   font-style: italic;
-}
-
-h4 {
-    font-size: 3em;
+       font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: blue;
 }
