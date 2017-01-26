@@ -111,9 +111,3 @@ ul.posts li {
     color: white;
 }
 
-$( ".selector" ).tabs({
-  activate: function(event,ui) {
-    var anchor = $(event.target).attr("id");
-    location.hash = anchor; //this will add #id to your url, which upon refresh will trigger the jquery tab selection event
-  }
-}); 
