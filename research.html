@@ -24,6 +24,15 @@
         		<li><a href="contact.html">Contact</a></li>
         		<li><a href="CV.pdf">CV</a></li>
     		</ul>
+		
+				<script>
+//refresh the page once to load slideshow correctly
+var currentLocation=window.location.href;
+setTimeout(function(){
+    if(!window.location.hash) {
+        window.location = currentLocation + '#loaded';
+        window.location.reload()}}, 1000);
+</script>
     
       <div id="content">
 
