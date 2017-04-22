@@ -92,36 +92,48 @@ a img{border:0px;}
 #research .col-mid{margin:0px 65px;}
 
 /****************************************************/
-/* TEACHING SECTION */
+/* EXPERIENCE SECTION */
 /****************************************************/
 
-#teaching{margin:0px 43px; padding-top:115px;}
-#teaching .content{overflow:auto;}
-#teaching #work-thumbs li{
+#experience{margin:0px 43px; padding-top:115px;}
+#experience .col{
+	width:235px;
+	float:left;
+}
+#experience .content{overflow:auto;}
+#experience .col-mid{margin:0px 65px;}
+
+/****************************************************/
+/* WORK SECTION */
+/****************************************************/
+
+#work{margin:0px 43px; padding-top:115px;}
+#work .content{overflow:auto;}
+#work #work-thumbs li{
 	list-style:none;
 	float:left;
 	margin:0px 20px 15px 0px;
 	padding:0px;
 }
-#teaching #work-thumbs li.last{margin:0px;}
+#work #work-thumbs li.last{margin:0px;}
 
 /****************************************************/
-/* CONTACT SECTION */
+/* CONNECT SECTION */
 /****************************************************/
-#contact{margin:0px 43px; padding-top:115px;}
-#contact .content{overflow:auto;}
-#contact #form{
+#connect{margin:0px 43px; padding-top:115px;}
+#connect .content{overflow:auto;}
+#connect #form{
 	width:410px;
 	float:left;
 }
-#contact #form span{
+#connect #form span{
 	display:block;
 	float:left;
 	width:100px;
 	padding-top:5px;
 	font: 400 14px/16px 'Bree Serif', Georgia, serif;
 }
-#contact #form input{
+#connect #form input{
 	float:left;
 	width:255px;
 	border:0px;
@@ -130,7 +142,7 @@ a img{border:0px;}
 	font: 400 11px/20px 'Open Sans', Verdana, Helvetica, sans-serif;
 	margin-bottom:10px;
 }
-#contact #form textarea{
+#connect #form textarea{
 	float:left;
 	border:0px;
 	width:255px;
@@ -140,10 +152,10 @@ a img{border:0px;}
 	color:#3b3b3b;
 }
 
-#contact #form input.name{background:#222222 url(icon-user.png) no-repeat 10px 8px;}
-#contact #form input.email{background:#222222 url(icon-mail.png) no-repeat 10px 9px;}
-#contact #form textarea.message{background:#222222 url(icon-message.png) no-repeat 10px 8px;}
-#contact #form input.submit{ 
+#connect #form input.name{background:#222222 url(images/icon-user.png) no-repeat 10px 8px;}
+#connect #form input.email{background:#222222 url(images/icon-mail.png) no-repeat 10px 9px;}
+#connect #form textarea.message{background:#222222 url(images/icon-message.png) no-repeat 10px 8px;}
+#connect #form input.submit{ 
 	width:75px;   
 	height:30px;
 	float:right;
@@ -154,26 +166,27 @@ a img{border:0px;}
 	font: 400 14px/16px 'Bree Serif', Georgia, serif;
 }
 
-#contact #social-footer{
+#connect #social-footer{
 	width:300px;
 	float:left;
 	margin-left:75px;
 }
-#contact #social-footer #sm-links{margin-top:25px;}
-#contact #social-footer #sm-links li{
+#connect #social-footer #sm-links{margin-top:25px;}
+#connect #social-footer #sm-links li{
 	list-style:none;
 	float:left;
 }
-#contact #social-footer #sm-links li a{
+#connect #social-footer #sm-links li a{
 	display:block;
 	text-indent:-9999px;
 	width:26px; 
 	height:26px;
 	margin-right:10px;
 }
-#contact #social-footer #sm-links li a.facebook{background:url("https://github.com/TatsianaKulakevich/TatsianaKulakevich.github.io/blob/master/sm-facebook-icon.png?raw=true") no-repeat;}
-#contact #social-footer #sm-links li a.twitter{background:url("https://github.com/TatsianaKulakevich/TatsianaKulakevich.github.io/blob/master/sm-twitter-icon.png?raw=true") no-repeat; width:31px;}
-#contact #social-footer #sm-links li a.linkedin{background:url("https://github.com/TatsianaKulakevich/TatsianaKulakevich.github.io/blob/master/sm-linkedin-icon.png?raw=true") no-repeat;}
+#connect #social-footer #sm-links li a.facebook{background:url("https://github.com/TatsianaKulakevich/TatsianaKulakevich.github.io/blob/master/sm-facebook-icon.png?raw=true") no-repeat;}
+#connect #social-footer #sm-links li a.twitter{background:url("https://github.com/TatsianaKulakevich/TatsianaKulakevich.github.io/blob/master/sm-twitter-icon.png?raw=true")  no-repeat; width:31px;}
+#connect #social-footer #sm-links li a.linkedin{background:url("https://github.com/TatsianaKulakevich/TatsianaKulakevich.github.io/blob/master/sm-linkedin-icon.png?raw=true") no-repeat;}
+
 
 /****************************************************/
 /* MISC */
