@@ -1,6 +1,6 @@
 
  body{
-	background:#333333 url(page-bg.jpg);
+	background:#333333 url(TatsianaKulakevich.github.io/page-bg.jpg);
 	margin:0px;
 	font: 400 12px/22px 'Open Sans', Verdana, Helvetica, sans-serif;
 	color:#6a6969;
@@ -16,7 +16,7 @@ a img{border:0px;}
 #container{
 	width:950px;
 	margin:0px auto 300px auto;
-	background:url(body-bg.png);
+	background:url(TatsianaKulakevich.github.io/body-bg.png);
 	overflow:auto;
 	padding-bottom:100px;
 }
