@@ -16,7 +16,7 @@ a img{border:0px;}
 #container{
 	width:950px;
 	margin:0px auto 300px auto;
-	background:url(TatsianaKulakevich.github.io/body-bg.png);
+	background:url("https://github.com/TatsianaKulakevich/TatsianaKulakevich.github.io/blob/master/body-bg.png?raw=true");
 	overflow:auto;
 	padding-bottom:100px;
 }
