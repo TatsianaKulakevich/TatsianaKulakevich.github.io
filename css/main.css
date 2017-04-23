@@ -85,89 +85,21 @@ a img{border:0px;}
 /* RESEARCH SECTION */
 /****************************************************/
 
-#research{margin:0px 43px; padding-top:115px;}
-#research .col{
-	width:235px;
-	float:left;
-}
-#research .content{overflow:auto;}
-#research .col-mid{margin:0px 65px;}
-
-/****************************************************/
-/* EXPERIENCE SECTION */
-/****************************************************/
-
 #experience{margin:0px 43px; padding-top:115px;}
-#experience .col{
-	width:235px;
-	float:left;
-}
 #experience .content{overflow:auto;}
-#experience .col-mid{margin:0px 65px;}
 
 /****************************************************/
-/* WORK SECTION */
+/* TEACHING SECTION */
 /****************************************************/
 
 #work{margin:0px 43px; padding-top:115px;}
 #work .content{overflow:auto;}
-#work #work-thumbs li{
-	list-style:none;
-	float:left;
-	margin:0px 20px 15px 0px;
-	padding:0px;
-}
-#work #work-thumbs li.last{margin:0px;}
 
 /****************************************************/
-/* CONNECT SECTION */
+/* CONTACT SECTION */
 /****************************************************/
 #connect{margin:0px 43px; padding-top:115px;}
 #connect .content{overflow:auto;}
-#connect #form{
-	width:410px;
-	float:left;
-}
-#connect #form span{
-	display:block;
-	float:left;
-	width:100px;
-	padding-top:5px;
-	font: 400 14px/16px 'Bree Serif', Georgia, serif;
-}
-#connect #form input{
-	float:left;
-	width:255px;
-	border:0px;
-	color:#3b3b3b;
-	padding:10px 10px 10px 30px;
-	font: 400 11px/20px 'Open Sans', Verdana, Helvetica, sans-serif;
-	margin-bottom:10px;
-}
-#connect #form textarea{
-	float:left;
-	border:0px;
-	width:255px;
-	height:100px;
-	padding:10px 10px 10px 30px;
-	font: 400 11px/20px 'Open Sans', Verdana, Helvetica, sans-serif;
-	color:#3b3b3b;
-}
-
-#connect #form input.name{background:#222222 url(images/icon-user.png) no-repeat 10px 8px;}
-#connect #form input.email{background:#222222 url(images/icon-mail.png) no-repeat 10px 9px;}
-#connect #form textarea.message{background:#222222 url(images/icon-message.png) no-repeat 10px 8px;}
-#connect #form input.submit{ 
-	width:75px;   
-	height:30px;
-	float:right;
-	padding:0px 0px 5px 0px;
-	margin:10px 16px 0px 0px;
-	background:#222222;
-	color:#3b3b3b;
-	font: 400 14px/16px 'Bree Serif', Georgia, serif;
-}
-
 #connect #social-footer{
 	width:300px;
 	float:left;
